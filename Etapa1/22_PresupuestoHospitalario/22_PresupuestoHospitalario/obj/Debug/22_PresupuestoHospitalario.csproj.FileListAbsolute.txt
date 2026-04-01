@@ -1,0 +1,2 @@
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\22_PresupuestoHospitalario\22_PresupuestoHospitalario\bin\Debug\22_PresupuestoHospitalario.exe.config
+C:\Users\Lab AyED\Documents\3_Pallares\Etapa0\22_PresupuestoHospitalario\22_PresupuestoHospitalario\bin\Debug\22_PresupuestoHospitalario.exe.config

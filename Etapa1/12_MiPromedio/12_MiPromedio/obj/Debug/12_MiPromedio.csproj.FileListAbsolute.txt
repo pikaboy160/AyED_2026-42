@@ -1,0 +1,12 @@
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\12_MiPromedio\12_MiPromedio\bin\Debug\12_MiPromedio.exe.config
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\12_MiPromedio\12_MiPromedio\bin\Debug\12_MiPromedio.exe
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\12_MiPromedio\12_MiPromedio\bin\Debug\12_MiPromedio.pdb
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\12_MiPromedio\12_MiPromedio\obj\Debug\12_MiPromedio.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\12_MiPromedio\12_MiPromedio\obj\Debug\12_MiPromedio.exe
+C:\Users\Lab AyED\Documents\3_EscobarCervantes\Etapa1\12_MiPromedio\12_MiPromedio\obj\Debug\12_MiPromedio.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\Etapa0\12_MiPromedio\12_MiPromedio\bin\Debug\12_MiPromedio.exe.config
+C:\Users\Lab AyED\Documents\3_Pallares\Etapa0\12_MiPromedio\12_MiPromedio\obj\Debug\12_MiPromedio.exe
+C:\Users\Lab AyED\Documents\3_Pallares\Etapa0\12_MiPromedio\12_MiPromedio\obj\Debug\12_MiPromedio.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\Etapa0\12_MiPromedio\12_MiPromedio\bin\Debug\12_MiPromedio.exe
+C:\Users\Lab AyED\Documents\3_Pallares\Etapa0\12_MiPromedio\12_MiPromedio\bin\Debug\12_MiPromedio.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\Etapa0\12_MiPromedio\12_MiPromedio\obj\Debug\12_MiPromedio.csprojResolveAssemblyReference.cache

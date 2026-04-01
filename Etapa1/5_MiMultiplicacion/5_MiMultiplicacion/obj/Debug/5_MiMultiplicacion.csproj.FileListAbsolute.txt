@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\3_Pallares\Etapa0\5_MiMultiplicacion\5_MiMultiplicacion\bin\Debug\5_MiMultiplicacion.exe.config
+C:\Users\Lab AyED\Documents\3_Pallares\Etapa0\5_MiMultiplicacion\5_MiMultiplicacion\bin\Debug\5_MiMultiplicacion.exe
+C:\Users\Lab AyED\Documents\3_Pallares\Etapa0\5_MiMultiplicacion\5_MiMultiplicacion\bin\Debug\5_MiMultiplicacion.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\Etapa0\5_MiMultiplicacion\5_MiMultiplicacion\obj\Debug\5_MiMultiplicacion.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\3_Pallares\Etapa0\5_MiMultiplicacion\5_MiMultiplicacion\obj\Debug\5_MiMultiplicacion.exe
+C:\Users\Lab AyED\Documents\3_Pallares\Etapa0\5_MiMultiplicacion\5_MiMultiplicacion\obj\Debug\5_MiMultiplicacion.pdb

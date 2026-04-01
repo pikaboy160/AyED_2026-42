@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\3_Pallares\Etapa0\4_MiResta\4_MiResta\bin\Debug\4_MiResta.exe.config
+C:\Users\Lab AyED\Documents\3_Pallares\Etapa0\4_MiResta\4_MiResta\bin\Debug\4_MiResta.exe
+C:\Users\Lab AyED\Documents\3_Pallares\Etapa0\4_MiResta\4_MiResta\bin\Debug\4_MiResta.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\Etapa0\4_MiResta\4_MiResta\obj\Debug\4_MiResta.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\3_Pallares\Etapa0\4_MiResta\4_MiResta\obj\Debug\4_MiResta.exe
+C:\Users\Lab AyED\Documents\3_Pallares\Etapa0\4_MiResta\4_MiResta\obj\Debug\4_MiResta.pdb

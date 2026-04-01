@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\3_Pallares\Etapa0\6_MiDivision\6_MiDivision\bin\Debug\6_MiDivision.exe.config
+C:\Users\Lab AyED\Documents\3_Pallares\Etapa0\6_MiDivision\6_MiDivision\bin\Debug\6_MiDivision.exe
+C:\Users\Lab AyED\Documents\3_Pallares\Etapa0\6_MiDivision\6_MiDivision\bin\Debug\6_MiDivision.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\Etapa0\6_MiDivision\6_MiDivision\obj\Debug\6_MiDivision.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\3_Pallares\Etapa0\6_MiDivision\6_MiDivision\obj\Debug\6_MiDivision.exe
+C:\Users\Lab AyED\Documents\3_Pallares\Etapa0\6_MiDivision\6_MiDivision\obj\Debug\6_MiDivision.pdb

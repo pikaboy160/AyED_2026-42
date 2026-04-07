@@ -4,3 +4,6 @@ C:\Users\Lab AyED\Documents\3_Pallares\Etapa0\11_AlReves\11_AlReves\bin\Debug\11
 C:\Users\Lab AyED\Documents\3_Pallares\Etapa0\11_AlReves\11_AlReves\obj\Debug\11_AlReves.csprojResolveAssemblyReference.cache
 C:\Users\Lab AyED\Documents\3_Pallares\Etapa0\11_AlReves\11_AlReves\obj\Debug\11_AlReves.exe
 C:\Users\Lab AyED\Documents\3_Pallares\Etapa0\11_AlReves\11_AlReves\obj\Debug\11_AlReves.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa1\11_AlReves\11_AlReves\bin\Debug\11_AlReves.exe.config
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa1\11_AlReves\11_AlReves\obj\Debug\11_AlReves.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa1\11_AlReves\11_AlReves\obj\Debug\11_AlReves.pdb

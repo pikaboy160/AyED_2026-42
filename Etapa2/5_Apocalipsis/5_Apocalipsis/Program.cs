@@ -10,18 +10,30 @@ namespace _5_Apocalipsis
     {
         static void Main(string[] args)
         {
-            Console.Write("¿tienes un refugio? (SI/NO)");
-            string refugio = Console.ReadLine();
-            Console.Write("¿tienes comida? (SI/NO)");
-            string comida = Console.ReadLine();
-            Console.Write("¿tienes algo con que defenderte? (SI/NO)");
-            string arma = Console.ReadLine();
-            Console.Write("¿tienes agua? (SI/NO)");
-            string agua = Console.ReadLine();
-            Console.Write("¿tienes Medicinas? (SI/NO)");
-            string medicina = Console.ReadLine();
-            Console.Write("¿tienes problema fisico? (SI/NO)");
-            string fisico = Console.ReadLine();
+            int contador = 0;
+            Console.Write("¿tienes un refugio? (SI/NO) ");
+            bool refugio = Console.ReadLine().ToLower() == "si";
+            Console.Write("¿tienes comida? (SI/NO) ");
+            bool comida = Console.ReadLine().ToLower() == "si";
+            Console.Write("¿tienes algo con que defenderte? (SI/NO) ");
+            bool arma = Console.ReadLine().ToLower() == "si";
+            Console.Write("¿tienes agua? (SI/NO) ");
+            bool agua = Console.ReadLine().ToLower() == "si";
+            Console.Write("¿tienes Medicinas? (SI/NO) ");
+            bool medicina = Console.ReadLine().ToLower() == "si";
+            Console.Write("¿tienes problema fisico? (SI/NO) ");
+            bool fisico = Console.ReadLine().ToLower() == "si";
+
+            if ( refugio && comida && arma && agua )
+            {
+                Console.WriteLine("Puedes sobrevivr al apocalipsis");
+            }
+            else
+            {
+                Console.WriteLine("No puedes sobrevivir al apocalipsis");
+            }
+            Console.ReadKey();
+            
         }
     }
 }

@@ -2,10 +2,10 @@
 
 
 ## Santiago Pallares
-###4° 2°
+###4Â° 2Â°
 
 Contenidos:
 * Etapa 1: Fundamentales de Programaciones
-* Etapa 2
+* Etapa 2: Sentencias de Control
 * Etapa 3
 * Etapa 4

@@ -15,7 +15,7 @@ namespace _13_HastaN
             int contador = contador = 1;
             while (contador <= numero)
             {
-                if (contador % 2 => 0)
+                if (contador % 2 == 0)
                 {
                     Console.WriteLine(contador);
                 }

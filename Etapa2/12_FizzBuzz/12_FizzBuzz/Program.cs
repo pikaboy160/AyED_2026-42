@@ -18,7 +18,7 @@ namespace _12_FizzBuzz
                     Console.WriteLine("Fizzbuzz");
                 } 
                 else if (contador % 3 == 0)
-                {
+                {153
                     Console.WriteLine("Fizz");
                 }
                 else if (contador % 5 == 0)

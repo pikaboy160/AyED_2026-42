@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\12_AvengersAir\12_AvengersAir\bin\Debug\12_AvengersAir.exe.config
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\12_AvengersAir\12_AvengersAir\bin\Debug\12_AvengersAir.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\12_AvengersAir\12_AvengersAir\bin\Debug\12_AvengersAir.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\12_AvengersAir\12_AvengersAir\obj\Debug\12_AvengersAir.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\12_AvengersAir\12_AvengersAir\obj\Debug\12_AvengersAir.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\12_AvengersAir\12_AvengersAir\obj\Debug\12_AvengersAir.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\4_EstadoDeAgua\4_EstadoDeAgua\bin\Debug\4_EstadoDeAgua.exe.config
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\4_EstadoDeAgua\4_EstadoDeAgua\bin\Debug\4_EstadoDeAgua.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\4_EstadoDeAgua\4_EstadoDeAgua\bin\Debug\4_EstadoDeAgua.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\4_EstadoDeAgua\4_EstadoDeAgua\obj\Debug\4_EstadoDeAgua.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\4_EstadoDeAgua\4_EstadoDeAgua\obj\Debug\4_EstadoDeAgua.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\4_EstadoDeAgua\4_EstadoDeAgua\obj\Debug\4_EstadoDeAgua.pdb

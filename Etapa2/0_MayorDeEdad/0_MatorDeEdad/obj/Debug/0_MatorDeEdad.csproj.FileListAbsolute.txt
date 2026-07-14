@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\0_MatorDeEdad\0_MatorDeEdad\bin\Debug\0_MatorDeEdad.exe.config
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\0_MatorDeEdad\0_MatorDeEdad\obj\Debug\0_MatorDeEdad.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\0_MatorDeEdad\0_MatorDeEdad\bin\Debug\0_MatorDeEdad.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\0_MatorDeEdad\0_MatorDeEdad\bin\Debug\0_MatorDeEdad.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\0_MatorDeEdad\0_MatorDeEdad\obj\Debug\0_MatorDeEdad.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\0_MatorDeEdad\0_MatorDeEdad\obj\Debug\0_MatorDeEdad.pdb

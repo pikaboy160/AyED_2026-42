@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\18_SimuladorJuego\18_SimuladorJuego\bin\Debug\18_SimuladorJuego.exe.config
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\18_SimuladorJuego\18_SimuladorJuego\bin\Debug\18_SimuladorJuego.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\18_SimuladorJuego\18_SimuladorJuego\bin\Debug\18_SimuladorJuego.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\18_SimuladorJuego\18_SimuladorJuego\obj\Debug\18_SimuladorJuego.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\18_SimuladorJuego\18_SimuladorJuego\obj\Debug\18_SimuladorJuego.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\18_SimuladorJuego\18_SimuladorJuego\obj\Debug\18_SimuladorJuego.csprojResolveAssemblyReference.cache

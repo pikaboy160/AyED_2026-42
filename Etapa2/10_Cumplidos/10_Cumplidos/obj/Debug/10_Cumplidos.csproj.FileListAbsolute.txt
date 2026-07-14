@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\10_Cumplidos\10_Cumplidos\bin\Debug\10_Cumplidos.exe.config
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\10_Cumplidos\10_Cumplidos\obj\Debug\10_Cumplidos.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\10_Cumplidos\10_Cumplidos\bin\Debug\10_Cumplidos.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\10_Cumplidos\10_Cumplidos\bin\Debug\10_Cumplidos.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\10_Cumplidos\10_Cumplidos\obj\Debug\10_Cumplidos.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\10_Cumplidos\10_Cumplidos\obj\Debug\10_Cumplidos.pdb

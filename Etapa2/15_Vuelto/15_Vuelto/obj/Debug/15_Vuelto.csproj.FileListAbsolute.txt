@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\15_Vuelto\15_Vuelto\bin\Debug\15_Vuelto.exe.config
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\15_Vuelto\15_Vuelto\bin\Debug\15_Vuelto.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\15_Vuelto\15_Vuelto\bin\Debug\15_Vuelto.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\15_Vuelto\15_Vuelto\obj\Debug\15_Vuelto.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\15_Vuelto\15_Vuelto\obj\Debug\15_Vuelto.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\15_Vuelto\15_Vuelto\obj\Debug\15_Vuelto.pdb

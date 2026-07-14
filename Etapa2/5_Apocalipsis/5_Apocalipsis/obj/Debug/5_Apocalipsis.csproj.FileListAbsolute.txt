@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\5_Apocalipsis\5_Apocalipsis\bin\Debug\5_Apocalipsis.exe.config
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\5_Apocalipsis\5_Apocalipsis\bin\Debug\5_Apocalipsis.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\5_Apocalipsis\5_Apocalipsis\bin\Debug\5_Apocalipsis.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\5_Apocalipsis\5_Apocalipsis\obj\Debug\5_Apocalipsis.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\5_Apocalipsis\5_Apocalipsis\obj\Debug\5_Apocalipsis.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\5_Apocalipsis\5_Apocalipsis\obj\Debug\5_Apocalipsis.pdb

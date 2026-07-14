@@ -1,88 +1,39 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _3_HotSale
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] args)
+        Console.Write("Ingrese la cantidad de productos vendidos: ");
+        int cantidad = int.Parse(Console.ReadLine());
+
+        double[] precios = new double[cantidad];
+
+        for (int i = 0; i < cantidad; i++)
         {
-            int numero_producto_alto = 0;
-            int numerito_alto = 0;
-            int numerito_bajo = 0;
-            int numero_producto_bajo = 0;
-
-            Console.Write("¿cuantos productos se vendieron?: ");
-            int productos = int.Parse(Console.ReadLine());
-            int[]  = new int[productos];
-
-            Console.Write("Ingrese la cantidad de TPs que tendran: ");
-            int cantTPs = int.Parse(Console.ReadLine());
-            int[] tps = new int[cantTPs];
-
-            for (int i = 0; i < tps.Length; i++)
-            {
-                Console.Write($"Ingrese la nota de su TP {i + 1}: ");
-                int nota = int.Parse(Console.ReadLine());
-
-                while (nota > 10 || nota < 0)
-                {
-                    Console.Write($"Nota invalida Reingrese nota del TP {i + 1}: ");
-                    nota = int.Parse(Console.ReadLine());
-                }
-                tps[i] = nota;
-            }
-
-            for (int i = 0; i < examenes.Length; i++)
-            {
-                Console.Write($"Ingrese la nota de su examen {i + 1}: ");
-                int nota = int.Parse(Console.ReadLine());
-
-                while (nota > 10 || nota < 0)
-                {
-                    Console.Write($"Nota invalida Reingrese nota del examen {i + 1}: ");
-                    nota = int.Parse(Console.ReadLine());
-                }
-                examenes[i] = nota;
-            }
-
-            for (int i = 0; i < examenes.Length; i++)
-            {
-                promedio_examenes += examenes[i];
-            }
-
-            for (int i = 0; i < tps.Length; i++)
-            {
-                if (tps[i] >= 6)
-                {
-                    tps_aprobados++;
-                }
-            }
-
-            if (examenes.Length > 0)
-            {
-                double promedioFinalExamenes = (double)promedio_examenes / examenes.Length;
-
-                if (tps_aprobados >= (tps.Length * 0.75) && promedioFinalExamenes >= 6)
-                {
-                    aprobado = true;
-                }
-
-                if (aprobado == true)
-                {
-                    Console.WriteLine($"usted a aprobado con un promedio de {promedioFinalExamenes} en los examenes");
-                    Console.WriteLine($"y con un total de {tps_aprobados} aprobados de {tps.Length} TPs disponibles");
-                }
-                else
-                {
-                    Console.WriteLine($"usted a desaprobado con un promedio de {promedioFinalExamenes} en los examenes");
-                    Console.WriteLine($"y con un total de {tps_aprobados} aprobados de {tps.Length} TPs disponibles");
-                }
-            }
-            Console.ReadKey();
+            Console.Write($"Ingrese el precio del producto {i + 1}: ");
+            precios[i] = double.Parse(Console.ReadLine());
         }
+
+        double precio_Mas_Caro = precios[0];
+        double precio_Mas_Barato = precios[0];
+
+        for (int i = 1; i < cantidad; i++)
+        {
+            if (precios[i] > precio_Mas_Caro)
+            {
+                precio_Mas_Caro = precios[i];
+            }
+            if (precios[i] < precio_Mas_Barato)
+            {
+                precio_Mas_Barato = precios[i];
+            }
+        }
+
+        Console.WriteLine("Resultados del Hot Sale");
+        Console.WriteLine($"El producto mas caro costo: {precio_Mas_Caro}");
+        Console.WriteLine($"El producto mas económico costo: {precio_Mas_Barato}");
+
+        Console.WriteLine("Presione cualquier tecla para salir");
+        Console.ReadKey();
     }
 }

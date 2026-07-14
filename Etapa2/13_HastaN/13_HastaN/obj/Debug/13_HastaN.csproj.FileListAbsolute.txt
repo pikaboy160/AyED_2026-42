@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\13_HastaN\13_HastaN\bin\Debug\13_HastaN.exe.config
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\13_HastaN\13_HastaN\bin\Debug\13_HastaN.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\13_HastaN\13_HastaN\bin\Debug\13_HastaN.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\13_HastaN\13_HastaN\obj\Debug\13_HastaN.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\13_HastaN\13_HastaN\obj\Debug\13_HastaN.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\13_HastaN\13_HastaN\obj\Debug\13_HastaN.csprojResolveAssemblyReference.cache

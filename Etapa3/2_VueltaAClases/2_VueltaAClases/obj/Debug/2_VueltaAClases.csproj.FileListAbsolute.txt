@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\2_VueltaAClases\2_VueltaAClases\bin\Debug\2_VueltaAClases.exe.config
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\2_VueltaAClases\2_VueltaAClases\bin\Debug\2_VueltaAClases.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\2_VueltaAClases\2_VueltaAClases\bin\Debug\2_VueltaAClases.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\2_VueltaAClases\2_VueltaAClases\obj\Debug\2_VueltaAClases.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\2_VueltaAClases\2_VueltaAClases\obj\Debug\2_VueltaAClases.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\2_VueltaAClases\2_VueltaAClases\obj\Debug\2_VueltaAClases.pdb

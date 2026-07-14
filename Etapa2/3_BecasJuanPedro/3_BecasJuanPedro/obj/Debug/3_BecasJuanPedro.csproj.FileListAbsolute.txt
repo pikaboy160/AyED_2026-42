@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\3_BecasJuanPedro\3_BecasJuanPedro\bin\Debug\3_BecasJuanPedro.exe.config
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\3_BecasJuanPedro\3_BecasJuanPedro\obj\Debug\3_BecasJuanPedro.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\3_BecasJuanPedro\3_BecasJuanPedro\bin\Debug\3_BecasJuanPedro.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\3_BecasJuanPedro\3_BecasJuanPedro\bin\Debug\3_BecasJuanPedro.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\3_BecasJuanPedro\3_BecasJuanPedro\obj\Debug\3_BecasJuanPedro.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\3_BecasJuanPedro\3_BecasJuanPedro\obj\Debug\3_BecasJuanPedro.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\19_SimuladorBlackJack\19_SimuladorBlackJack\bin\Debug\19_SimuladorBlackJack.exe.config
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\19_SimuladorBlackJack\19_SimuladorBlackJack\bin\Debug\19_SimuladorBlackJack.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\19_SimuladorBlackJack\19_SimuladorBlackJack\bin\Debug\19_SimuladorBlackJack.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\19_SimuladorBlackJack\19_SimuladorBlackJack\obj\Debug\19_SimuladorBlackJack.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\19_SimuladorBlackJack\19_SimuladorBlackJack\obj\Debug\19_SimuladorBlackJack.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\19_SimuladorBlackJack\19_SimuladorBlackJack\obj\Debug\19_SimuladorBlackJack.pdb

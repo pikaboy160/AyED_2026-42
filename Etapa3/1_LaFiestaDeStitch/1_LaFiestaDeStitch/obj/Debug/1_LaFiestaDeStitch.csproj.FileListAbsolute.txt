@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\1_LaFiestaDeStitch\1_LaFiestaDeStitch\bin\Debug\1_LaFiestaDeStitch.exe.config
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\1_LaFiestaDeStitch\1_LaFiestaDeStitch\bin\Debug\1_LaFiestaDeStitch.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\1_LaFiestaDeStitch\1_LaFiestaDeStitch\bin\Debug\1_LaFiestaDeStitch.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\1_LaFiestaDeStitch\1_LaFiestaDeStitch\obj\Debug\1_LaFiestaDeStitch.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\1_LaFiestaDeStitch\1_LaFiestaDeStitch\obj\Debug\1_LaFiestaDeStitch.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\1_LaFiestaDeStitch\1_LaFiestaDeStitch\obj\Debug\1_LaFiestaDeStitch.pdb

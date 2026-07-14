@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\8_SumandoMatrices\8_SumandoMatrices\bin\Debug\8_SumandoMatrices.exe.config
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\8_SumandoMatrices\8_SumandoMatrices\bin\Debug\8_SumandoMatrices.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\8_SumandoMatrices\8_SumandoMatrices\bin\Debug\8_SumandoMatrices.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\8_SumandoMatrices\8_SumandoMatrices\obj\Debug\8_SumandoMatrices.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\8_SumandoMatrices\8_SumandoMatrices\obj\Debug\8_SumandoMatrices.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\8_SumandoMatrices\8_SumandoMatrices\obj\Debug\8_SumandoMatrices.pdb

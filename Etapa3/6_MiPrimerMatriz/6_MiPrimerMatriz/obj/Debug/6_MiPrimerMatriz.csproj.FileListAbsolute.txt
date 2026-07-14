@@ -1,0 +1,7 @@
+C:\Users\Lab AyED\Documents\3_Escobar\AyED-2026-41\Etapa 3\6_MiPrimerMatriz\6_MiPrimerMatriz\bin\Debug\6_MiPrimerMatriz.exe.config
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\6_MiPrimerMatriz\6_MiPrimerMatriz\bin\Debug\6_MiPrimerMatriz.exe.config
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\6_MiPrimerMatriz\6_MiPrimerMatriz\bin\Debug\6_MiPrimerMatriz.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\6_MiPrimerMatriz\6_MiPrimerMatriz\bin\Debug\6_MiPrimerMatriz.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\6_MiPrimerMatriz\6_MiPrimerMatriz\obj\Debug\6_MiPrimerMatriz.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\6_MiPrimerMatriz\6_MiPrimerMatriz\obj\Debug\6_MiPrimerMatriz.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\6_MiPrimerMatriz\6_MiPrimerMatriz\obj\Debug\6_MiPrimerMatriz.pdb

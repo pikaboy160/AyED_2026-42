@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\2_ParOImpar\2_ParOImpar\bin\Debug\2_ParOImpar.exe.config
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\2_ParOImpar\2_ParOImpar\bin\Debug\2_ParOImpar.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\2_ParOImpar\2_ParOImpar\bin\Debug\2_ParOImpar.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\2_ParOImpar\2_ParOImpar\obj\Debug\2_ParOImpar.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\2_ParOImpar\2_ParOImpar\obj\Debug\2_ParOImpar.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\2_ParOImpar\2_ParOImpar\obj\Debug\2_ParOImpar.csprojResolveAssemblyReference.cache

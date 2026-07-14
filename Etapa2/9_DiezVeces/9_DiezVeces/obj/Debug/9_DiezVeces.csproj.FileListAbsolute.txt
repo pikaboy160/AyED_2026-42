@@ -1,0 +1,5 @@
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\9_DiezVeces\9_DiezVeces\bin\Debug\9_DiezVeces.exe.config
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\9_DiezVeces\9_DiezVeces\bin\Debug\9_DiezVeces.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\9_DiezVeces\9_DiezVeces\bin\Debug\9_DiezVeces.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\9_DiezVeces\9_DiezVeces\obj\Debug\9_DiezVeces.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\9_DiezVeces\9_DiezVeces\obj\Debug\9_DiezVeces.pdb

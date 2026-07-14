@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\5_CentroPM\5_CentroPM\bin\Debug\5_CentroPM.exe.config
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\5_CentroPM\5_CentroPM\bin\Debug\5_CentroPM.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\5_CentroPM\5_CentroPM\bin\Debug\5_CentroPM.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\5_CentroPM\5_CentroPM\obj\Debug\5_CentroPM.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\5_CentroPM\5_CentroPM\obj\Debug\5_CentroPM.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\5_CentroPM\5_CentroPM\obj\Debug\5_CentroPM.pdb

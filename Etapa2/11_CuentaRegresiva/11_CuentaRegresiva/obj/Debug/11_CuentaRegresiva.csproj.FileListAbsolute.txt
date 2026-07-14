@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\11_CuentaRegresiva\11_CuentaRegresiva\bin\Debug\11_CuentaRegresiva.exe.config
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\11_CuentaRegresiva\11_CuentaRegresiva\bin\Debug\11_CuentaRegresiva.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\11_CuentaRegresiva\11_CuentaRegresiva\bin\Debug\11_CuentaRegresiva.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\11_CuentaRegresiva\11_CuentaRegresiva\obj\Debug\11_CuentaRegresiva.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\11_CuentaRegresiva\11_CuentaRegresiva\obj\Debug\11_CuentaRegresiva.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\11_CuentaRegresiva\11_CuentaRegresiva\obj\Debug\11_CuentaRegresiva.csprojResolveAssemblyReference.cache

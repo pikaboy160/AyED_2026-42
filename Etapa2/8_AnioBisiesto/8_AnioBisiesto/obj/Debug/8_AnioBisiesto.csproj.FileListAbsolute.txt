@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\8_AnioBisiesto\8_AnioBisiesto\bin\Debug\8_AnioBisiesto.exe.config
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\8_AnioBisiesto\8_AnioBisiesto\bin\Debug\8_AnioBisiesto.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\8_AnioBisiesto\8_AnioBisiesto\bin\Debug\8_AnioBisiesto.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\8_AnioBisiesto\8_AnioBisiesto\obj\Debug\8_AnioBisiesto.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\8_AnioBisiesto\8_AnioBisiesto\obj\Debug\8_AnioBisiesto.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\8_AnioBisiesto\8_AnioBisiesto\obj\Debug\8_AnioBisiesto.pdb

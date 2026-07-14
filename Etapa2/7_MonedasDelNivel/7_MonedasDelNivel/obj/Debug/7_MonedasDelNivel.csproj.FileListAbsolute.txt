@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\7_MonedasDelNivel\7_MonedasDelNivel\bin\Debug\7_MonedasDelNivel.exe.config
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\7_MonedasDelNivel\7_MonedasDelNivel\bin\Debug\7_MonedasDelNivel.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\7_MonedasDelNivel\7_MonedasDelNivel\bin\Debug\7_MonedasDelNivel.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\7_MonedasDelNivel\7_MonedasDelNivel\obj\Debug\7_MonedasDelNivel.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\7_MonedasDelNivel\7_MonedasDelNivel\obj\Debug\7_MonedasDelNivel.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\7_MonedasDelNivel\7_MonedasDelNivel\obj\Debug\7_MonedasDelNivel.csprojResolveAssemblyReference.cache

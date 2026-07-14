@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\12_FizzBuzz\12_FizzBuzz\bin\Debug\12_FizzBuzz.exe.config
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\12_FizzBuzz\12_FizzBuzz\bin\Debug\12_FizzBuzz.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\12_FizzBuzz\12_FizzBuzz\bin\Debug\12_FizzBuzz.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\12_FizzBuzz\12_FizzBuzz\obj\Debug\12_FizzBuzz.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\12_FizzBuzz\12_FizzBuzz\obj\Debug\12_FizzBuzz.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa2\12_FizzBuzz\12_FizzBuzz\obj\Debug\12_FizzBuzz.csprojResolveAssemblyReference.cache

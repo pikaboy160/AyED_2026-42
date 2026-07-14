@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\10_ObtenerDiagonalPrincipal\10_ObtenerDiagonalPrincipal\bin\Debug\10_ObtenerDiagonalPrincipal.exe.config
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\10_ObtenerDiagonalPrincipal\10_ObtenerDiagonalPrincipal\bin\Debug\10_ObtenerDiagonalPrincipal.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\10_ObtenerDiagonalPrincipal\10_ObtenerDiagonalPrincipal\bin\Debug\10_ObtenerDiagonalPrincipal.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\10_ObtenerDiagonalPrincipal\10_ObtenerDiagonalPrincipal\obj\Debug\10_ObtenerDiagonalPrincipal.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\10_ObtenerDiagonalPrincipal\10_ObtenerDiagonalPrincipal\obj\Debug\10_ObtenerDiagonalPrincipal.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\10_ObtenerDiagonalPrincipal\10_ObtenerDiagonalPrincipal\obj\Debug\10_ObtenerDiagonalPrincipal.pdb

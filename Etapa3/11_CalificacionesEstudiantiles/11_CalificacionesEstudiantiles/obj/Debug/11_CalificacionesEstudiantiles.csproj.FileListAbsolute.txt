@@ -1,0 +1,6 @@
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\11_CalificacionesEstudiantiles\11_CalificacionesEstudiantiles\bin\Debug\11_CalificacionesEstudiantiles.exe.config
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\11_CalificacionesEstudiantiles\11_CalificacionesEstudiantiles\bin\Debug\11_CalificacionesEstudiantiles.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\11_CalificacionesEstudiantiles\11_CalificacionesEstudiantiles\bin\Debug\11_CalificacionesEstudiantiles.pdb
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\11_CalificacionesEstudiantiles\11_CalificacionesEstudiantiles\obj\Debug\11_CalificacionesEstudiantiles.csprojResolveAssemblyReference.cache
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\11_CalificacionesEstudiantiles\11_CalificacionesEstudiantiles\obj\Debug\11_CalificacionesEstudiantiles.exe
+C:\Users\Lab AyED\Documents\3_Pallares\AyED_2026-42\Etapa3\11_CalificacionesEstudiantiles\11_CalificacionesEstudiantiles\obj\Debug\11_CalificacionesEstudiantiles.pdb

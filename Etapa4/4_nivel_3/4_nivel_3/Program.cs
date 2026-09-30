@@ -20,18 +20,40 @@ namespace _4_nivel_3
             bool ok = Level3.CountAdjacent(g, 1, 1) == 4
                    && Level3.CountAdjacent(g, 0, 0) == 2;
             Console.WriteLine(ok ? "✔ UNLOCK → Fragmento: -OK" : "🔒 LOCKED");
+            Console.ReadKey();
         }
     }
 
     static class Level3
     {
-        public static int CountAdjacent(int[,] grid, int row, int col)
+        public static int CountAdjacent(int[,] matriz, int fila, int columna)
         {
-            // TODO: implementar
+            int filas = matriz.GetLength(0);
+            int columnas = matriz.GetLength(1);
 
-            // Considerar vecinos: (r-1,c), (r+1,c), (r,c-1), (r,c+1)
-            // Devolver cuántos valen 1
-            return 0; // <- reemplazar por tu solución
+            int contador = 0;
+
+            if (fila - 1 >= 0 && matriz[fila - 1, columna] == 1)
+            {
+                contador++;
+            }
+
+            if (fila + 1 < filas && matriz[fila + 1, columna] == 1)
+            {
+                contador++;
+            }
+
+            if (columna - 1 >= 0 && matriz[fila, columna - 1] == 1)
+            {
+                contador++;
+            }
+
+            if (columna + 1 < columnas && matriz[fila, columna + 1] == 1)
+            {
+                contador++;
+            }
+
+            return contador;
         }
     }
 }

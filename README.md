@@ -1,5 +1,4 @@
 # Laboratorio de Algoritmos y Estructura de Datos
-##Santiago Pallares
 
 Santiago Pallares
 4° 2°

@@ -8,4 +8,5 @@ Contenidos:
 * Etapa 1: Fundamentales de Programaciones
 * Etapa 2: Sentencias de Control
 * Etapa 3: Arrays y Colecciones De Datos
-* Etapa 4
+* Etapa 4: Programación Modular y Funciones
+* Etapa 5: Programación Orientada a Objetos
